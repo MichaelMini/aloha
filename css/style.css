@@ -81,7 +81,7 @@
          url('../assets/fonts/raleway-light-webfont.woff') format('woff'),
          url('../assets/fonts/raleway-light-webfont.ttf') format('truetype'),
          url('../assets/fonts/raleway-light-webfont.svg#ralewaylight') format('svg');
-    font-weight: light;
+    font-weight: lighter;
     font-style: normal;
 
 }
@@ -97,7 +97,7 @@
          url('../assets/fonts/raleway-lightitalic-webfont.woff') format('woff'),
          url('../assets/fonts/raleway-lightitalic-webfont.ttf') format('truetype'),
          url('../assets/fonts/raleway-lightitalic-webfont.svg#ralewaylight_italic') format('svg');
-    font-weight: light;
+    font-weight: lighter;
     font-style: italic;
 
 }
@@ -160,8 +160,8 @@ h1 {
 }
 
 h2 {
-	font-size: 2.4rem;
-	margin-bottom: 1.5rem;
+	font-size: 2.7rem;
+	/*margin-bottom: 1.5rem;*/
 	font-style: italic;
 }
 
@@ -192,7 +192,7 @@ header a:visited,
 }
 
 p {
-	max-width: 740px;
+	/*max-width: 740px;*/
 	margin: 0 auto;
 	font-size: 1.4rem;
 }
@@ -223,7 +223,7 @@ header {
 }
 
 .content {
-	padding: 70px 30px;
+	padding: 50px 30px;
 	line-height: 40px;
 }
 
@@ -231,6 +231,11 @@ header {
 .product-list a,
 .sign-up-banner {
 	color: white;
+}
+
+.about-section p,
+.sign-up-banner p {
+	font-size: 1.3rem;
 }
 
 /* -- general style end -- */
@@ -321,25 +326,8 @@ header {
 
 /* -- about section start -- */
 
-.bxslider-container {
-	height: 620px;
-	padding: 70px 0;
-}
-
-.showcase-content {
-	display: inline-block;
-}
-
-.showcase-item {
-	color: #969696; light grey text
-	font-size: .7rem;
-	font-weight: bold;
-	text-transform: uppercase;
-}
-
-.showcase-item img {
-	margin: 50px 0 0 0;
-	width: 76%;
+.about-section {
+	height: 262px;
 }
 
 /* -- about section end -- */
@@ -347,7 +335,7 @@ header {
 /*-- Products Section Start --*/
 	
 .products {
-/*	height: 1000px;*/
+    font-size: 2.4rem;
 }
 
 .product-list {
@@ -431,7 +419,33 @@ header {
 	font-size: 1.6rem;
 }
 
-/*-- products section start --*/
+/*-- products section end --*/
+
+
+/*-- featured section start --*/
+
+.bxslider-container {
+	height: 620px;
+	padding: 70px 0;
+}
+
+.showcase-content {
+	display: inline-block;
+}
+
+.showcase-item {
+	color: #969696; /*light grey text*/
+	font-size: .7rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.showcase-item img {
+	margin: 50px 0 0 0;
+	width: 76%;
+}
+
+/*-- featured section start --*/
 
 /* -- sign-up banner start -- */
 
@@ -568,7 +582,7 @@ footer {
 	}
 
 	.about {
-		max-width: 600px;
+		max-width: 720px;
 		margin: 0 auto;
 	}
 
@@ -638,9 +652,9 @@ footer .content {
 		height: 550px;
 	}
 
-	.about {
+	/*.about {
 		max-width: 800px;
-	}
+	}*/
 
 	#showcase-item li {
 		max-width: 23.4vw;
