@@ -141,6 +141,7 @@ html {
 }
 
 body {
+	margin-top: 4px;
 	font-family: 'raleway', sans-serif;
 	font-size: 1rem;
 	font-weight: normal;
@@ -215,7 +216,6 @@ nav {
 }
 
 header {
-	margin-top: 4px;
 	padding: 0 2%;
 	background-color: white;
     border-bottom: 1px solid #d7d7d7;
@@ -642,8 +642,9 @@ footer {
 		flex: 1 0 50%;
 	}
 
-	.about {
-		max-width: 720px;
+	.about,
+	.content-text {
+		max-width: 738px;
 		margin: 0 auto;
 	}
 
