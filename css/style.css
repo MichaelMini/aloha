@@ -174,7 +174,6 @@ h3 {
 
 a {
 	text-decoration: none;
-	color: white;
 }
 
 body, button, input, select, textarea {
@@ -186,14 +185,13 @@ body, button, input, select, textarea {
     line-height: 2;
 }
 
-body a:hover {
-	color: #b64036;		/*-- hover State Color --*/
+a,
+a:visited {
+	color: #e2574c; 	/* -- orange brand colour -- */
 }
 
-h3,
-header a:link,
-header a:visited {
-	color: #e2574c; 	/* -- orange brand colour -- */
+a:hover {
+	color: #b64036;		/*-- hover State Color --*/
 }
 
 .font-weight {
@@ -532,7 +530,7 @@ header {
  } 
 
 input[type='email']{
-	margin: 5px 0 0 30px;
+	margin:2px 0 0 30px;
 	width: 144px;
     font-family: 'raleway', sans-serif;
     font-weight: lighter;
@@ -565,6 +563,11 @@ input[type='submit'] {
 footer {
 	background-color: #242424; 	/* -- dark grey background -- */
 	line-height: 1.6rem;
+	color: white;
+}
+
+footer a:link,
+footer a:visited {
 	color: white;
 }
 
