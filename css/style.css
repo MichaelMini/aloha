@@ -157,8 +157,7 @@ h2 {
 
 h3 {
 	font-size: 1.6rem;
-    font-weight: 100;
-	/*font-size: 1.5rem;*/
+	font-weight: 100;
 }
 
 a {
@@ -166,12 +165,12 @@ a {
 }
 
 body, button, input, select, textarea {
-    color: #2d2d2d;
-    font-family: 'raleway', sans-serif;
-    font-size: 1rem;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 2;
+	color: #2d2d2d;
+	font-family: 'raleway', sans-serif;
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 2;
 }
 
 a,
@@ -189,8 +188,6 @@ a:hover {
 }
 
 p {
-    /*font-family: 'Raleway', sans-serif;*/
-	/*max-width: 740px;*/
 	margin: 0 auto;
 	font-size: 1.2rem;
 }
@@ -200,20 +197,19 @@ li {
 }
 
 nav {
-/*	overflow: auto;*/
 	border-top: 1px solid #d7d7d7; 	/* -- light grey border -- */
 }
 
 header {
 	padding: 0 2%;
 	background-color: white;
-    border-bottom: 1px solid #d7d7d7;
-    box-shadow: 0px 1px 6px rgba(100, 100, 100, 0.15);
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 100;
+	border-bottom: 1px solid #d7d7d7;
+	box-shadow: 0px 1px 6px rgba(100, 100, 100, 0.15);
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
 	height: 120px;
 }
 
@@ -221,7 +217,6 @@ header {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	/*padding: 0 30px;*/
 }
 
 .content {
@@ -260,6 +255,7 @@ header {
 	height: 50px;
 	max-width: 120px;
 }
+
 .header-cart {
 	height: 73px;
 	padding: 14px 0 0 0;
@@ -268,12 +264,12 @@ header {
 }
 
 .cart {
-    width: 50px;
-    padding-bottom: 6px;
+	width: 50px;
+	padding-bottom: 6px;
 }
 
 .header-nav {
-    font-weight: 100;
+	font-weight: 100;
 	flex: 1 0 100%;
 	max-width: 600px;
 }
@@ -281,7 +277,7 @@ header {
 .header-nav ul {
 	display: flex;
 	justify-content: space-between;
-    margin: 6px auto 0;
+	margin: 6px auto 0;
 	width: 320px;
 }
 
@@ -335,8 +331,10 @@ header {
 
 /* -- about section end -- */
 
+
+
 /*-- Products Section Start --*/
-	
+
 .products,
 .products a {
     font-size: 2.8rem;
@@ -530,9 +528,9 @@ input[type='email']{
 input[type='submit'] {
 	background: #e2574c; 	/* -- orange brand colour -- */
 	-webkit-border-radius: 30px; 
-    -moz-border-radius: 30px; 
-    border-radius: 30px;
-    margin: 3px 5px 3px 0;
+	-moz-border-radius: 30px; 
+	border-radius: 30px;
+	margin: 3px 5px 3px 0;
 	color: white;
 	cursor: pointer;
 	font-size: 17px;
@@ -540,11 +538,9 @@ input[type='submit'] {
 	border: none;
 }
 
-
 /* -- sign-up banner end -- */
 
 /* -- footer start -- */
-
 
 footer {
 	background-color: #242424; 	/* -- dark grey background -- */
@@ -579,7 +575,7 @@ footer a:visited {
 }
 
 .hide {
-   	display: none;
+	display: none;
 }
 
 .padding {
