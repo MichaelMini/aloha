@@ -13,12 +13,12 @@ The <form> and <input> can be used to validate if an proper email had been enter
 This project uses:
 
 1. <form>... 		- HTML5
-1. @font-face 		- css3
+2. @font-face 		- css3
 3. Font-awesome 	- css3
-1. Smooth Scrolling - jQuery
-2. BX Slider		- jQuery
-5. Flexbox 			- css3
-4. @media query 	- css3
+4. Smooth Scrolling - jQuery
+5. BX Slider		- jQuery
+6. Flexbox 			- css3
+7. @media query 	- css3
 
 ## Summary 
 
