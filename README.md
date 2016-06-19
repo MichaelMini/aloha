@@ -2,17 +2,17 @@
 
 ## Project Description
 
-The first project at RED Academy Full-Time Web Developer Professional. It is to build a front page for a E-commerce store by writing HTML5, CSS and jQuery from scratch. The main functionalities of the Aloha site are Smooth Scrolling (jQuery), bxslider (jQuery), Flexbox (css3), media query (css) and <form>/<input> (HTML5). 
+The first project at RED Academy Full-Time Web Developer Professional. It is to build a front page for a E-commerce store by writing HTML5, CSS and jQuery from scratch. The main functionalities of the Aloha site are Smooth Scrolling (jQuery), bxslider (jQuery), Flexbox (css3), media query (css) and form/input elements (HTML5). 
 
-The navigation menu encorporates with jQuery - smooth scrolling and the 'Featured' <section> uses the bxslider. Which allows the user auto scroll to different part of the page by click on the menu and buttons.
+The navigation menu encorporates with jQuery - smooth scrolling and the 'Featured' section tag uses the bxslider. Which allows the user auto scroll to different part of the page by click on the menu and buttons.
 
 The Flexbox and media query allow the website to be responsive to different layout and style depending on the screen size of the user's device. 
 
-The <form> and <input> can be used to validate if an proper email had been entered into the submission box by the user.
+The form and input elements can be used to validate if an proper email had been entered into the submission box by the user.
 
 This project uses:
 
-1. <form>... 		- HTML5
+1. form 			- HTML5
 2. @font-face 		- css3
 3. Font-awesome 	- css3
 4. Smooth Scrolling - jQuery
