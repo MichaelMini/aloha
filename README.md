@@ -1,4 +1,4 @@
-# Aloha - A single page website ( HTML5, CSS and jQuery )
+# Aloha - A single page website ( HTML5, CSS and jQuery ) http://michaelmini.github.io/aloha-HTML5-CSS3/index.html
 
 ## Project Description
 
@@ -12,13 +12,13 @@ The form and input elements can be used to validate if an proper email had been 
 
 This project uses:
 
-1. form 			- HTML5
-2. @font-face 		- css3
-3. Font-awesome 	- css3
+1. form 		    	  - HTML5
+2. @font-face 		  - css3
+3. Font-awesome 	  - css3
 4. Smooth Scrolling - jQuery
-5. BX Slider		- jQuery
-6. Flexbox 			- css3
-7. @media query 	- css3
+5. BX Slider		    - jQuery
+6. Flexbox 			    - css3
+7. @media query   	- css3
 
 ## Summary 
 
