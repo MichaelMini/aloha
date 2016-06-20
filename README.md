@@ -1,6 +1,6 @@
 # Aloha - A single page website ( HTML5, CSS and jQuery )
 
-First Project for RED Academy - Full-Time Web Developer Professional
+First Project for RED Academy - Full-Time Front-End Web Developer Professional
 
 ## Project Description - http://michaelmini.github.io/aloha-HTML5-CSS3/index.html
 
