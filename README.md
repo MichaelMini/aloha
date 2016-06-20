@@ -10,7 +10,7 @@ The Flexbox and media query allow the website to be responsive to different layo
 
 The form and input elements can be used to validate if an proper email had been entered into the submission box by the user.
 
-The Tools:
+## The Tools:
 
 1. form 			- HTML5
 2. @font-face 		- css3
