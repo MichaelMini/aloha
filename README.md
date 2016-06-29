@@ -2,6 +2,8 @@
 
 First Project for RED Academy - Full-Time Front-End Web Developer Professional
 
+![image](https://cloud.githubusercontent.com/assets/16886114/16460946/dcd0a620-3dde-11e6-9294-55419f183c76.png)
+
 ## Project Description - http://michaelmini.github.io/aloha-HTML5-CSS3/index.html
 
 The first project at RED Academy Full-Time Web Developer Professional. It is to build a front page for a E-commerce store by writing HTML5, CSS and jQuery from scratch. The main functionalities of the Aloha site are Smooth Scrolling (jQuery), bxslider (jQuery), Flexbox (css3), media query (css) and form/input elements (HTML5). 
